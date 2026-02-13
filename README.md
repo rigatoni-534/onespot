@@ -1,18 +1,15 @@
-# Home
-Welcome to my repository! This is the main page connected to my Github Pages, [see here.](https://rigatoni534.github.io)
+# OneSpot
+Welcome to my repository! This will have some entertaining *elements*
 
 ## What can I find?
 - Games
 - Info
 - Else
-* As of release v1.0.0, there is only [one **game**](https://rigatoni534.github.io/home)
-> [!CAUTION]
-> **I LIKE CHEESE**
->
-> * ULTRAKILL
-> * run boy run
-> * You are not safe
->
+> [!NOTE]
+> As of release v1.0.0, there is only [one **game**](https://rigatoni534.github.io/home)
+
+> [!IMPORTANT]
+> The pages may be blocked out.
 
 More info will be available on the project soon.
-> ALL GAMES ARE FORKED FROM ANOTHER GIT REPOSITORY!
+> ALL GAMES ARE FORKED FROM ANOTHER GIT REPOSITORY OR OTHER SOURCE
